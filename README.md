@@ -1,4 +1,4 @@
-Customer Retention & Revenue Performance Analysis (SQL Project)
+### Customer Retention & Revenue Performance Analysis (SQL Project)
 
 📖 Business Problem
 
